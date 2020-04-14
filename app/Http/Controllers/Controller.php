@@ -13,6 +13,6 @@ class Controller extends BaseController
 
     public function index()
     {
-        echo '11111111';
+        echo '22222';
     }
 }
